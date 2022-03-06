@@ -1,3 +1,4 @@
 # portfolio
 #
-#This is my collection of coding. 
+#A program to play Rock, Paper, Scissors against the computer. 
+
