@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1632401269 source:c:\users\chrisvecchiarelli\school\c++ 263\rock paper scissors\main.cpp
+	<iostream>
+	"RockPaperScissorHeader.h"
+
+1632400861 c:\users\chrisvecchiarelli\school\c++ 263\rock paper scissors\rockpaperscissorheader.h
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1632401200 source:c:\users\chrisvecchiarelli\school\c++ 263\rock paper scissors\rockpaperscissormethods.cpp
+	"RockPaperScissorHeader.h"
+
