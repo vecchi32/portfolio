@@ -2,7 +2,6 @@
 #include "RoomCarpet.h"
 //************************************************************
 // Chris Vecchiarelli
-// 11/30/21
 // Carpet Calculator
 // Main will gather the dimensions from the user then pass
 // them to an instance of RoomCarpet to perform calculations
